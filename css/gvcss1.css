@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body h1{
+	color:red;
+	font-weight:bold;
+}
+
+body{
+	font-family:raleway;
+}
+
+.hcustom{
+
+}
+.bg-dark{
+	background-color: red !important;
+}
+.c-container{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.c-caption{
+	color: #000000;
+}
+
+.text-container{
+	max-width:1000px;
+}
+
+.gvtext {
+	padding-top:20px;
+}
+.footer{
+	background-color: red;
+	height:80px;
+	color:white;
+	text-align:center;
+	font-size:.8rem;
+	padding-top:20px;
+}
+
+.small-width{
+	max-width:1200px;
+}
+
+.card-container{
+	padding-bottom: 20px;
+}
+
+.card-footer-cy{
+	height: 60px;
+}
+
+.btn-primary{
+	background-color:red;
+	color:white;
+	border-color:white;
+}
